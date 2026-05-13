@@ -44,6 +44,15 @@ def main():
     # 2. Clean data
     df = df.dropna(subset=["label", "text"])
     df["label"] = df["label"].str.strip()
+    label_corrections = {
+    "allergy": "Allergy",
+    "diabetes": "Diabetes",
+    "drug reaction": "Drug Reaction",
+    "urinary tract infection": "Urinary Tract Infection",
+    "gastroesophageal reflux disease": "Gastroesophageal Reflux Disease",
+    "peptic ulcer disease": "Peptic Ulcer Disease",
+    }
+    df["label"] = df["label"].replace(label_corrections)
     df["text"]  = df["text"].str.strip()
     df = df[df["text"].str.len() > 10]  # drop entries with very short descriptions
 
