@@ -156,7 +156,6 @@ def main():
         save_total_limit=cfg.save_total_limit,
         load_best_model_at_end=cfg.load_best_model_at_end,
         metric_for_best_model=cfg.metric_for_best_model,
-        group_by_length=True,            # speeds up training by batching similar-length sequences
         report_to=cfg.report_to,
         seed=cfg.seed,
     )
@@ -167,10 +166,8 @@ def main():
         args=training_args,
         train_dataset=train_ds,
         eval_dataset=val_ds,
-        tokenizer=tokenizer,
-        dataset_text_field="text",       # column containing the full formatted prompt
-        max_seq_length=cfg.max_seq_length,
-        packing=False,                   # set True to pack short sequences for faster training
+        processing_class=tokenizer,      # column containing the full formatted prompt
+        formatting_func=lambda x: x["text"],
     )
 
     # 5. Train
