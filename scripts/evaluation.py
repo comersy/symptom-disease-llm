@@ -43,8 +43,10 @@ def load_model(base_model: str, lora_path: str):
 
 
 def extract_prediction(generated_text: str, prompt: str) -> str:
-    # Strip the input prompt from the generated output
-    response = generated_text[len(prompt):].strip()
+    if "[/INST]" in generated_text:
+        response = generated_text.split("[/INST]")[-1]
+    else:
+        response = generated_text[len(prompt):]
     response = re.sub(r"</s>.*", "", response, flags=re.DOTALL)
     return response.split("\n")[0].strip()
 
