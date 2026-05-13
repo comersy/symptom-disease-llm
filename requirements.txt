@@ -1,6 +1,5 @@
-json
 pandas
-sklearn.model_selection
+scikit-learn
 datasets
 huggingface_hub
 bitsandbytes>=0.46.1
