@@ -2,3 +2,10 @@ json
 pandas
 sklearn.model_selection
 datasets
+huggingface_hub
+bitsandbytes>=0.46.1
+torch
+dataclasses
+transformers
+peft
+trl
