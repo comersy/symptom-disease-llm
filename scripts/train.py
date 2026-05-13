@@ -30,7 +30,7 @@ class Config:
     bnb_4bit_quant_type: str = "nf4"
     use_nested_quant: bool = True
     # LoRA — instead of updating all 7B weights, we inject small trainable matrices
-    lora_r: int = 16      # rank: higher = more capacity, more VRAM
+    lora_r: int = 32      # rank: higher = more capacity, more VRAM
     lora_alpha: int = 32      # scaling factor (effective scale = alpha/r)
     lora_dropout: float = 0.05
     lora_target_modules: list = field(default_factory=lambda: [
@@ -39,11 +39,11 @@ class Config:
     ])
     # Training
     max_seq_length: int = 512
-    num_train_epochs: int = 5
+    num_train_epochs: int = 15
     per_device_train_batch_size: int = 4
     per_device_eval_batch_size: int  = 4
     gradient_accumulation_steps: int = 2   # effective batch size = 4 * 2 = 8
-    learning_rate: float = 1e-6
+    learning_rate: float = 2e-4
     warmup_ratio: float = 0.05
     lr_scheduler_type: str = "cosine"
     weight_decay: float = 0.01
