@@ -11,7 +11,7 @@ from tqdm import tqdm
 
 # ── Config ────────────────────────────────────────────────────────────────────
 BASE_MODEL   = "models/mistral-7b-instruct-v0.3"
-LORA_WEIGHTS = "outputs/mistral-disease-lora/checkpoint-1000"
+LORA_WEIGHTS = "outputs/mistral-disease-lora/final"
 DATA_DIR     = "data/dataset"
 LABEL_MAP    = "data/label_map.json"
 MAX_NEW_TOKENS = 20

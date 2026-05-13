@@ -1,3 +1,12 @@
 models/
 data/dataset/
-outputs/
+models/
+data/dataset/
+outputs/mistral-disease-lora/checkpoint-*/
+outputs/mistral-disease-lora/final/optimizer.pt
+outputs/mistral-disease-lora/final/rng_state.pth
+outputs/mistral-disease-lora/final/scheduler.pt
+outputs/mistral-disease-lora/final/training_args.bin
+outputs/mistral-disease-lora/final/chat_template.jinja
+outputs/mistral-disease-lora/final/README.md
+outputs/mistral-disease-lora/final/trainer_state.json

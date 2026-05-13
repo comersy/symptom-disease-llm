@@ -1,0 +1,121 @@
+label,predicted,raw_pred
+Malaria,Malaria,Malaria
+Chicken pox,Chicken pox,Chicken pox
+Arthritis,Arthritis,Arthritis
+Migraine,Migraine,Migraine
+Typhoid,Typhoid,Typhoid
+Impetigo,Impetigo,Impetigo
+Typhoid,Typhoid,Typhoid
+Hypertension,Hypertension,Hypertension
+Common Cold,Common Cold,Common Cold
+Impetigo,Impetigo,Impetigo
+Impetigo,Impetigo,Impetigo
+Peptic Ulcer Disease,Peptic Ulcer Disease,Peptic Ulcer Disease
+Diabetes,Diabetes,Diabetes
+Peptic Ulcer Disease,Peptic Ulcer Disease,Peptic Ulcer Disease
+Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease
+Psoriasis,Psoriasis,Psoriasis
+Allergy,Allergy,Allergy
+Fungal infection,Fungal infection,Fungal infection
+Typhoid,Typhoid,Typhoid
+Psoriasis,Psoriasis,Psoriasis
+Acne,Acne,Acne
+Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease
+Malaria,Malaria,Malaria
+Malaria,Malaria,Malaria
+Fungal infection,Fungal infection,Fungal infection
+Typhoid,Typhoid,Typhoid
+Fungal infection,Fungal infection,Fungal infection
+Acne,Acne,Acne
+Pneumonia,Pneumonia,Pneumonia
+Jaundice,Jaundice,Jaundice
+Psoriasis,Chicken pox,Chicken pox
+Varicose Veins,Varicose Veins,Varicose Veins
+Drug Reaction,Drug Reaction,Drug Reaction
+Hypertension,Hypertension,Hypertension
+Drug Reaction,Drug Reaction,Drug Reaction
+Pneumonia,Pneumonia,Pneumonia
+Dengue,Dengue,Dengue
+Dengue,Dengue,Dengue
+Migraine,Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis,Cervical spondylosis
+Jaundice,Jaundice,Jaundice
+Jaundice,Jaundice,Jaundice
+Impetigo,Impetigo,Impetigo
+Common Cold,Common Cold,Common Cold
+Urinary Tract Infection,Urinary Tract Infection,Urinary Tract Infection
+Arthritis,Arthritis,Arthritis
+Impetigo,Impetigo,Impetigo
+Arthritis,Arthritis,Arthritis
+Arthritis,Arthritis,Arthritis
+Bronchial Asthma,Bronchial Asthma,Bronchial Asthma
+Jaundice,Jaundice,Jaundice
+Allergy,Allergy,Allergy
+Acne,Acne,Acne
+Bronchial Asthma,Bronchial Asthma,Bronchial Asthma
+Diabetes,Diabetes,Diabetes
+Dengue,Dengue,Dengue
+Allergy,Allergy,Allergy
+Arthritis,Arthritis,Arthritis
+Jaundice,Jaundice,Jaundice
+Malaria,Malaria,Malaria
+Dimorphic Hemorrhoids,Dimorphic Hemorrhoids,Dimorphic Hemorrhoids
+Psoriasis,Psoriasis,Psoriasis
+Chicken pox,Chicken pox,Chicken pox
+Drug Reaction,Drug Reaction,Drug Reaction
+Diabetes,Diabetes,Diabetes
+Dengue,Dengue,Dengue
+Typhoid,Typhoid,Typhoid
+Diabetes,Bipolar Disorder,Bipolar Disorder
+Allergy,Allergy,Allergy
+Migraine,Migraine,Migraine
+Psoriasis,Psoriasis,Psoriasis
+Acne,Acne,Acne
+Varicose Veins,Varicose Veins,Varicose Veins
+Hypertension,Hypertension,Hypertension
+Cervical spondylosis,Cervical spondylosis,Cervical spondylosis
+Dimorphic Hemorrhoids,Dimorphic Hemorrhoids,Dimorphic Hemorrhoids
+Migraine,Migraine,Migraine
+Peptic Ulcer Disease,Peptic Ulcer Disease,Peptic Ulcer Disease
+Pneumonia,Pneumonia,Pneumonia
+Migraine,Migraine,Migraine
+Fungal infection,Fungal infection,Fungal infection
+Drug Reaction,Drug Reaction,Drug Reaction
+Cervical spondylosis,Cervical spondylosis,Cervical spondylosis
+Bronchial Asthma,Bronchial Asthma,Bronchial Asthma
+Hypertension,Hypertension,Hypertension
+Common Cold,Common Cold,Common Cold
+Common Cold,Common Cold,Common Cold
+Malaria,Malaria,Malaria
+Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease
+Fungal infection,Fungal infection,Fungal infection
+Drug Reaction,Drug Reaction,Drug Reaction
+Urinary Tract Infection,Urinary Tract Infection,Urinary Tract Infection
+Varicose Veins,Varicose Veins,Varicose Veins
+Cervical spondylosis,Cervical spondylosis,Cervical spondylosis
+Dengue,Dengue,Dengue
+Allergy,Allergy,Allergy
+Dimorphic Hemorrhoids,Dimorphic Hemorrhoids,Dimorphic Hemorrhoids
+Peptic Ulcer Disease,Peptic Ulcer Disease,Peptic Ulcer Disease
+Varicose Veins,Varicose Veins,Varicose Veins
+Peptic Ulcer Disease,Peptic Ulcer Disease,Peptic Ulcer Disease
+Diabetes,Diabetes,Diabetes
+Bronchial Asthma,Bronchial Asthma,Bronchial Asthma
+Dimorphic Hemorrhoids,Dimorphic Hemorrhoids,Dimorphic Hemorrhoids
+Urinary Tract Infection,Urinary Tract Infection,Urinary Tract Infection
+Common Cold,Common Cold,Common Cold
+Acne,Acne,Acne
+Bronchial Asthma,Bronchial Asthma,Bronchial Asthma
+Dimorphic Hemorrhoids,Dimorphic Hemorrhoids,Dimorphic Hemorrhoids
+Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease
+Hypertension,Hypertension,Hypertension
+Urinary Tract Infection,Urinary Tract Infection,Urinary Tract Infection
+Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease
+Urinary Tract Infection,Urinary Tract Infection,Urinary Tract Infection
+Chicken pox,Chicken pox,Chicken pox
+Pneumonia,Pneumonia,Pneumonia
+Chicken pox,Chicken pox,Chicken pox
+Cervical spondylosis,Cervical spondylosis,Cervical spondylosis
+Pneumonia,Pneumonia,Pneumonia
+Varicose Veins,Varicose Veins,Varicose Veins
+Chicken pox,Chicken pox,Chicken pox
