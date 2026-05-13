@@ -8,3 +8,4 @@ dataclasses
 transformers
 peft
 trl
+tqdm

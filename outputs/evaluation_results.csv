@@ -1,0 +1,121 @@
+label,predicted,raw_pred
+Typhoid,ST] FoodPoisoning,ST] FoodPoisoning
+Common Cold,Common Cold,miserable and extremely exhausted. [/INST] Common Cold
+Bronchial Asthma,to breathe via my nose or mouth for a few days and feelinf too tired. Please recommend some medications for me. [/INST] Influenza,to breathe via my nose or mouth for a few days and feelinf too tired. Please recommend some medications for me. [/INST] Influenza
+Varicose Veins,Varicose Veins,"frequently, especially when I am walking or standing for long periods of time. Also, the veins are very noticeable. [/INST] Varicose Veins"
+gastroesophageal reflux disease,gastroesophageal reflux disease,"my stomach, I constantly have a sour taste in my mouth. I frequently have hiccups and a lump in my throat. [/INST] Gastroesophageal reflux disease (GERD)"
+Pneumonia,mucous. [/INST] Bronchitis,mucous. [/INST] Bronchitis
+gastroesophageal reflux disease,gastroesophageal reflux disease,"er eating, my throat regularly feels like it is burning. I also occasionally get a bitter or sour aftertaste, which makes me feel sick. [/INST] Gastroesophageal reflux disease (GERD)"
+Migraine,Migraine,th my usual activities. [/INST] Migraine
+Dengue,Malaria,e body pain and chills. I am worried about my health and don’t know what to do. [/INST] Malaria
+Pneumonia,Pneumonia,ST] Pneumonia
+Pneumonia,ur. [/INST] Pulmonary edema,ur. [/INST] Pulmonary edema
+allergy,s of breath. I cough uncontrollably and get itchy eyes and swelling on my face and other body parts [/INST] Asthma,s of breath. I cough uncontrollably and get itchy eyes and swelling on my face and other body parts [/INST] Asthma
+Fungal infection,Psoriasis,ates me and itches. [/INST] Psoriasis
+allergy,n out and experiencing a tingle in my throat. I've also started to have dry skin. My eyes occasionally swell up [/INST] Allergies,n out and experiencing a tingle in my throat. I've also started to have dry skin. My eyes occasionally swell up [/INST] Allergies
+Malaria,Malaria,he. [/INST] Malaria
+drug reaction,Psoriasis,". On occasion, my hands begin to quiver and I begin to tremble. [/INST] Psoriasis"
+Arthritis,Arthritis,oo. [/INST] Rheumatoid Arthritis
+Jaundice,Jaundice,omach pain. [/INST] Jaundice
+gastroesophageal reflux disease,gastroesophageal reflux disease,lump in my throat and the hiccups. [/INST] Gastroesophageal reflux disease (GERD)
+drug reaction,Arthritis,smell. Sometimes get very unbearable joint pain and muscle pain [/INST] Rheumatoid Arthritis
+Acne,Acne,eads. My skin has been very sensitive moreover. [/INST] Acne
+Malaria,Malaria,ST] Malaria
+Typhoid,"e time, I have a mild headache. [/INST] Appendicitis","e time, I have a mild headache. [/INST] Appendicitis"
+Typhoid,and it's accompanied by stomach aches and vomiting. [/INST] Food Poisoning,and it's accompanied by stomach aches and vomiting. [/INST] Food Poisoning
+Jaundice,e is black. [/INST] Hepatitis,e is black. [/INST] Hepatitis
+gastroesophageal reflux disease,fficult to swallow food because of this tingling sensation in my throat [/INST] Oral Thrush,fficult to swallow food because of this tingling sensation in my throat [/INST] Oral Thrush
+Jaundice,ST] Hepatitis,ST] Hepatitis
+Acne,Acne,currying a lot. [/INST] Acne
+diabetes,"ly, but it usually gets better. [/INST] Allergies","ly, but it usually gets better. [/INST] Allergies"
+Psoriasis,Psoriasis,"and covered in dry, scaly patches. [/INST] Psoriasis"
+drug reaction,ery low mental clarity. I often forget things and in general have difficulty remembering things [/INST] Dementia,ery low mental clarity. I often forget things and in general have difficulty remembering things [/INST] Dementia
+urinary tract infection,in. [/INST] Kidney Stone,in. [/INST] Kidney Stone
+Impetigo,toms:,toms:
+Migraine,Migraine,"nd acid reflux, I've also been experiencing sadness, impatience, and visual distortion. [/INST] Migraine"
+Impetigo,Impetigo,and the blisters have begun to bleed clear pus. It is really painful to deal with. [/INST] Impetigo
+diabetes,I feel fatigued. Sometimes I have a feeling of rapid hearbeat or palipatations [/INST] Parkinson's Disease,I feel fatigued. Sometimes I have a feeling of rapid hearbeat or palipatations [/INST] Parkinson's Disease
+Dimorphic Hemorrhoids,irritated. [/INST] Diverticulitis,irritated. [/INST] Diverticulitis
+Dimorphic Hemorrhoids,ST] Hemorrhoids,ST] Hemorrhoids
+Varicose Veins,"orried about it. Also, I am overweight and I believe this is the reason behind all of this. [/INST] Deep Vein Thrombosis","orried about it. Also, I am overweight and I believe this is the reason behind all of this. [/INST] Deep Vein Thrombosis"
+Chicken pox,"my body. It itches if I touch them. Moreover, I also have a high fever and headache and always feel exhausted. [/INST] Scarlet Fever","my body. It itches if I touch them. Moreover, I also have a high fever and headache and always feel exhausted. [/INST] Scarlet Fever"
+Psoriasis,Psoriasis,strange peeling of skin in different parts of my body. I am afraid there is something wrong going on with my body. [/INST] Psoriasis
+Psoriasis,Psoriasis,"and hurts when I scratch it. I have also developed small dents in my nails, which is very strange. [/INST] Psoriasis"
+Pneumonia,Pneumonia,ST] Pneumonia
+Dengue,me.,me.
+peptic ulcer disease,gastroesophageal reflux disease,unintended weight loss and difficulty gaining weight. I have pain and discomfort that is relieved by taking antacids. My mouth tastes very bad [/INST] Gastroesophageal reflux disease (GERD)
+Bronchial Asthma,Pneumonia,"'ve got a dry cough, trouble breathing, and a high fever. I'm producing a lot of mucus and am feeling quite weak and exhausted. [/INST] Pneumonia"
+Pneumonia,Pneumonia,m coughing out a foul rusty phlegm. [/INST] Pneumonia
+Bronchial Asthma,Pneumonia,verything has been. [/INST] Pneumonia
+Bronchial Asthma,Pneumonia,"strained. When I cough, I also generate a lot of mucus. [/INST] Pneumonia"
+Cervical spondylosis,Cervical spondylosis,"oductive cough, and limb weakness have been bothering me. I have balance and dizzy concerns, and my neck hurts. [/INST] Cervical spondylosis"
+Psoriasis,Psoriasis,quently worst at night. I'm also experiencing skin flaking. [/INST] Psoriasis
+Arthritis,swelling. Walking has also been extremely painful. [/INST] Ankylosing Spondylitis,swelling. Walking has also been extremely painful. [/INST] Ankylosing Spondylitis
+Acne,Acne,"ds and pimples filled with pus are clogging it. Additionally, my skin has been quite irritated. [/INST] Acne"
+Cervical spondylosis,Cervical spondylosis,"in my arms and legs. I have issues with dizziness and balance loss, and my neck hurts. [/INST] Cervical spondylosis"
+Fungal infection,umps have developed on my skin. [/INST] Eczema,umps have developed on my skin. [/INST] Eczema
+Dimorphic Hemorrhoids,ST] Hemorrhoids,ST] Hemorrhoids
+Arthritis,Arthritis,"ionally, walking has been extremely uneasy. [/INST] Arthritis"
+Bronchial Asthma,Pneumonia,"w. When I cough, a lot of saliva comes out as well. [/INST] Pneumonia"
+Psoriasis,"e. There is a silver like dusting on my skin, especially on my back and elbows. [/INST] Tinea Versicolor","e. There is a silver like dusting on my skin, especially on my back and elbows. [/INST] Tinea Versicolor"
+Typhoid,rea. I get a high fever and chills every night. [/INST] Appendicitis,rea. I get a high fever and chills every night. [/INST] Appendicitis
+Hypertension,"My capacity to concentrate and focus has also been slipping, I've noticed. [/INST] Vertigo","My capacity to concentrate and focus has also been slipping, I've noticed. [/INST] Vertigo"
+drug reaction,Migraine,"k clearly, and everything seems quite hazy. [/INST] Migraine"
+Common Cold,ST] Bronchitis,ST] Bronchitis
+Impetigo,nt to touch. I'm also running a high fever. [/INST] Herpes Simplex,nt to touch. I'm also running a high fever. [/INST] Herpes Simplex
+Fungal infection,Psoriasis,ST] Psoriasis
+Dimorphic Hemorrhoids,ly bad. [/INST] Hemorrhoids,ly bad. [/INST] Hemorrhoids
+gastroesophageal reflux disease,gastroesophageal reflux disease,fter eating and puke up the entire meal. I constantly get excruciating acid reflux and severe stomach pain. [/INST] Gastroesophageal reflux disease (GERD)
+Fungal infection,of my skin. [/INST] Pityriasis Rosea,of my skin. [/INST] Pityriasis Rosea
+Arthritis,also been agonisingly painful to walk. [/INST] Gout,also been agonisingly painful to walk. [/INST] Gout
+Varicose Veins,cult for me to walk and do my daily activities. They come on suddenly and last for several minutes. [/INST] Charcot-Marie-Tooth disease,cult for me to walk and do my daily activities. They come on suddenly and last for several minutes. [/INST] Charcot-Marie-Tooth disease
+drug reaction,chest discomfort. My chest has been aching lately. I'm really nervous and shiver a lot of the time. [/INST] Pulmonary embolism,chest discomfort. My chest has been aching lately. I'm really nervous and shiver a lot of the time. [/INST] Pulmonary embolism
+Acne,Acne,d with pus. My skin has also been really scurrying. [/INST] Acne
+urinary tract infection,"or black, or both. The frequent changes in my body temperature usually keep me awake at night. [/INST] Kidney Disease","or black, or both. The frequent changes in my body temperature usually keep me awake at night. [/INST] Kidney Disease"
+Migraine,Migraine,ST] Migraine
+Chicken pox,and it's hard for me to resist scratching. [/INST] Measles,and it's hard for me to resist scratching. [/INST] Measles
+Hypertension,Migraine,"eadache and chest pain, but today the dizziness and lack of balance got considerably worse. [/INST] Migraine"
+Varicose Veins,Varicose Veins,"riods of time, as it causes pain in my legs, similar to cramps. [/INST] Varicose Veins"
+allergy,Migraine,"breathing problems. I frequently have headaches and fever. All the time, I feel exhausted. [/INST] Migraine"
+diabetes,diabetes,"mouth are dry. I've also been getting hungry more and more. I do, however, occasionally feel rather exhausted. [/INST] Diabetes Mellitus"
+Varicose Veins,a lot of irritation and discomfort. It is red and inflamed and appears to be spreading. [/INST] Eczema,a lot of irritation and discomfort. It is red and inflamed and appears to be spreading. [/INST] Eczema
+Jaundice,ST] Gallstones,ST] Gallstones
+Impetigo,also have a high fever. [/INST] Herpes Simplex,also have a high fever. [/INST] Herpes Simplex
+Chicken pox,Malaria,"on my skin, which is really concerning me. [/INST] Malaria"
+Cervical spondylosis,pain as well as a dizzy and unstable sensation. [/INST] Multiple Sclerosis,pain as well as a dizzy and unstable sensation. [/INST] Multiple Sclerosis
+Migraine,Migraine,al disturbance. [/INST] Migraine
+Dengue,Malaria,ng on my back and neck. [/INST] Malaria
+Dengue,"ild fever, accompanied with chills. [/INST] Gout","ild fever, accompanied with chills. [/INST] Gout"
+Typhoid,y appetite to eat anything. [/INST] Irritable Bowel Syndrome,y appetite to eat anything. [/INST] Irritable Bowel Syndrome
+Malaria,Malaria,urting me have been nausea and muscle soreness. [/INST] Malaria
+Jaundice,e yellow. Additional stomach pain that I've been having [/INST] Gallstones,e yellow. Additional stomach pain that I've been having [/INST] Gallstones
+Impetigo,ul to touch. I am also suffering from a high fever. [/INST] Herpes Zoster,ul to touch. I am also suffering from a high fever. [/INST] Herpes Zoster
+peptic ulcer disease,peptic ulcer disease,s of appetite. Sometimes I have dark and tarry stools and blood in my vomit [/INST] Peptic ulcer disease
+urinary tract infection,"e has been fluctuating often, which typically keeps me up at night. [/INST] UTI_Kidney_Stone","e has been fluctuating often, which typically keeps me up at night. [/INST] UTI_Kidney_Stone"
+Chicken pox,"the day, and I've been feeling lethargic and unable to motivate myself. [/INST] Chronic Fatigue Syndrome","the day, and I've been feeling lethargic and unable to motivate myself. [/INST] Chronic Fatigue Syndrome"
+Dimorphic Hemorrhoids,ST] Hemorrhoids,ST] Hemorrhoids
+Arthritis,e moving since my joints have enlarged. To walk has been quite painful. [/INST] Gout,e moving since my joints have enlarged. To walk has been quite painful. [/INST] Gout
+Hypertension,Migraine,"in, and dizziness. I've also observed that it's hard for me to concentrate. [/INST] Migraine"
+allergy,"decreased, and I've been having swallowing issues. I have a sore throat, and my nose has been running. [/INST] Sinusitis","decreased, and I've been having swallowing issues. I have a sore throat, and my nose has been running. [/INST] Sinusitis"
+urinary tract infection,urinary tract infection,ional cravings. [/INST] Urinary Tract Infection
+allergy,"nd torso are swollen, my eyes are itching, and I have a dry, hacking cough. [/INST] Asthma","nd torso are swollen, my eyes are itching, and I have a dry, hacking cough. [/INST] Asthma"
+Fungal infection,Psoriasis,ST] Psoriasis
+Cervical spondylosis,"been bothering me. I've been experiencing neck pain, balance issues, and dizziness. [/INST] Multiple Sclerosis","been bothering me. I've been experiencing neck pain, balance issues, and dizziness. [/INST] Multiple Sclerosis"
+Hypertension,"g with feeling dizzy and lightheaded. Additionally, I've seen a drop in my concentration and focus. [/INST] Vertigo","g with feeling dizzy and lightheaded. Additionally, I've seen a drop in my concentration and focus. [/INST] Vertigo"
+peptic ulcer disease,gastroesophageal reflux disease,asionally get loose stools as a result of this. [/INST] Gastroesophageal reflux disease (GERD)
+Dengue,Malaria,environment. My back pains all the time and there are red spots on my arms. [/INST] Malaria
+Acne,Acne,has also been really scurrying. [/INST] Acne
+Cervical spondylosis,e and I have had issues with dizziness and loss of balance. [/INST] Parkinson's disease,e and I have had issues with dizziness and loss of balance. [/INST] Parkinson's disease
+Hypertension,Migraine,". Additionally, I've discovered that it's hard for me to focus. [/INST] Migraine"
+Malaria,Malaria,ea and muscle soreness. [/INST] Malaria
+Migraine,the disease name.,the disease name.
+peptic ulcer disease,gastroesophageal reflux disease,causes me to have loose stools. [/INST] Gastroesophageal reflux disease (GERD)
+Malaria,Malaria,ST] Malaria
+peptic ulcer disease,ich has resulted in bloos loss and loss of iron. Thiis has caused me anemia and I feel very weak in general [/INST] Anemia,ich has resulted in bloos loss and loss of iron. Thiis has caused me anemia and I feel very weak in general [/INST] Anemia
+Common Cold,ST] Bronchitis,ST] Bronchitis
+diabetes,diabetes,"water and urinating more frequently. My throat and mouth are frequently dry. Recently, my appetite and hunger have both grown. [/INST] Diabetes Mellitus"
+Common Cold,Common Cold,"ever is really high too, like way above normal. [/INST] Common Cold"
+Chicken pox,The fever has been accompanied by a severe headache. I feel weak and lethargic. [/INST] Influenza,The fever has been accompanied by a severe headache. I feel weak and lethargic. [/INST] Influenza
+diabetes,Migraine,continuously fatigued and worn out. I also occasionally have acute lightheadedness and vertigo. [/INST] Migraine
+urinary tract infection,s:,s:
+Common Cold,and I can't smell anything. [/INST] Sinusitis,and I can't smell anything. [/INST] Sinusitis
