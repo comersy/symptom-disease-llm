@@ -11,7 +11,7 @@ from tqdm import tqdm
 
 # ── Config ────────────────────────────────────────────────────────────────────
 BASE_MODEL   = "models/mistral-7b-instruct-v0.3"
-LORA_WEIGHTS = "outputs/mistral-disease-lora/final"
+LORA_WEIGHTS = "outputs/mistral-disease-lora/checkpoint-1000"
 DATA_DIR     = "data/dataset"
 LABEL_MAP    = "data/label_map.json"
 MAX_NEW_TOKENS = 20
@@ -26,7 +26,7 @@ def load_model(base_model: str, lora_path: str):
         bnb_4bit_compute_dtype=torch.bfloat16,
         bnb_4bit_use_double_quant=True,
     )
-    tokenizer = AutoTokenizer.from_pretrained(lora_path, trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained("models/mistral-7b-instruct-v0.3", trust_remote_code=True)
     tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "left"   # left-pad for batch generation
 
