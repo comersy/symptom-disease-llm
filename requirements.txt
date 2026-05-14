@@ -9,3 +9,5 @@ transformers
 peft
 trl
 tqdm
+seaborn
+matplotlib
